@@ -56,8 +56,8 @@ else
 end
 endmodule
 ```
-Developed by:Priyadharshini.R
-RegisterNumber:24900285
+Developed by: YUVARAJ M
+RegisterNumber:212224050062
 
 
 **RTL LOGIC FOR FLIPFLOPS**
